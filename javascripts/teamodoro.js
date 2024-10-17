@@ -65,13 +65,16 @@ Teamodoro = {
     var minutes = this.getDate().getMinutes();
     return (minutes >= 25 && minutes <= 29) || (minutes >= 55 && minutes <= 59);
   },
-
   beepOnStateChange: function() {
-    if (this.inBreak() && this.lastState == "focus")
+    if (this.inBreak() && this.lastState == "focus") {
       document.getElementById("beep").play();
-    else if (!this.inBreak() && this.lastState == "break")
+      WA.chat.sendChatMessage('Time for a break', { scope: 'local', author: 'System' });
+    } else if (!this.inBreak() && this.lastState == "break") {
       document.getElementById("beep").play();
+      WA.chat.sendChatMessage('Focus Time!', { scope: 'local', author: 'System' });
+    }
   },
+  
 
   updateIcon: function() {
     var minutesLeft = this.clock.minutesLeft() + 1;
