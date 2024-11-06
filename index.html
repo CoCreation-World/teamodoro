@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Teamodoro: pomodoro timer for teams</title>
-    <meta name="description" content="Teamodoro is a simple pomodoro timer for teams. It helps improving the productivity of your team and reducing interruptions. Made by Base Secr&egrave;te" />
+    <meta name="description" content="Teamodoro is a simple pomodoro timer for teams. It helps improving the productivity of your team and reducing interruptions." />
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style type="text/css" media="screen">
@@ -18,8 +18,10 @@
         -o-background-size: cover;
         background-size: cover; width:100%; height:100%; position:fixed; opacity:.25; }
         #break-gif .poweredby { position: fixed; left:5%; bottom:5%; }
-      a { color: #181A21; background:#20BF55; text-decoration:none; }
-      #canvas { position: relative; height: calc(100% - 10%); top: 5%; margin: 0 5%; }
+      a { color: #181A21; background:#2A7D57; text-decoration:none; }
+      #canvas { position: relative; height: calc(100% - 10%); top: 5%; margin: 0 5%; 
+        background: url('images/IconOnly_Transparent_NoBuffer.png') no-repeat center center;
+        background-size: contain; }
        img.logo { height: 48px; position: absolute;
        top: 5%;
        left: 5%; }
@@ -39,47 +41,43 @@
       .why { display: none; position: absolute; top:0; right:0; bottom:0; left:0; background:rgba(24,26,33,.95); padding:5% 5% 15%; overflow-y:auto; }
       .why a { color: #dddcdd; text-decoration:underline; background: transparent; }
       .close { position:absolute; right:5%; }
-      .credits {  display:inline-block; position:fixed; right:0%; bottom: 0%; background:#20BF55; padding:12px; color:#555; }
+      .credits {  display:inline-block; position:fixed; right:0%; bottom: 0%; background:#181A21; padding:12px; color:#555; }
        .credits a {  color:#181A21; text-decoration: none; }
     </style>
   </head>
 
   <body>
     <div id="break-gif" style="display:none;">
-      <a href="https://giphy.com" target="_blank"><img src="images/poweredby.png" class="poweredby" /></a>
+      <a href="https://giphy.com" target="_blank"><img src="" class="poweredby" /></a>
     </div>
     <figure id="canvas"></figure>
 
     <a href="index.html" title="Teamodoro">
-      <img src="images/teamodoro.svg" alt="Teamodoro" class="logo" />
+      <img src="images/poweredby.gif" alt="Teamodoro" class="logo" />
     </a>
     <a href="#" class="btn" id="about">?</a>
-    <span class="credits">
-      By <a href="https://basesecrete.com">Base Secrète</a>
-    </span>
 
     <div class="why" id="why">
       <a href="index.html" title="Teamodoro">
-        <img src="images/teamodoro.svg" alt="Teamodoro" class="logo" />
+      <img src="" alt="Teamodoro" class="logo" />
       </a>
       <a class="btn close" href="#" id="close">X</a>
-      <h2>Teamodoro is a pomodoro timer for teams.</h2>
+      <h2>CoCreation.World Timer</h2>
       <h3>Pomodoro?</h3>
       <p>The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The technique uses a timer to break down work into intervals traditionally 25 minutes in length, separated by short breaks. The method is based on the idea that frequent breaks can improve mental agility. <a href="https://en.wikipedia.org/wiki/Pomodoro_Technique" target="_blank">Read more.</a></p>
       <h3>Teamodoro?</h3>
       <p>
-        The Pomodoro techniques works well for individuals. A team willing to use this technique must synchronize in order to prevent interruptions.
-        Interruptions kill productivity and require a significant recovery period.
-        <a href="https://thetomorrowlab.com/2015/01/why-developers-hate-being-interrupted/" target="_blank">Read more.</a>
+      The Pomodoro techniques works well for individuals. A team willing to use this technique must synchronize in order to prevent interruptions.
+      Interruptions kill productivity and require a significant recovery period.
+      <a href="https://cocreation.world/t/workathon/128" target="_blank">Read more.</a>
       </p>
-      <h3>Source code</h3>
+      <h3>Credits</h3>
       <p>
-        The source code is available on <a href="https://github.com/alexisbernard/teamodoro" target="_blank">Github</a> and is released under the MIT license.
+      The source code is available on <a href="https://github.com/alexisbernard/teamodoro" target="_blank">Github</a> and is released under the MIT license.
       </p>
-
       <p>Made by <a href="https://twitter.com/alexis_bernard" target="_blank">@alexis_bernard</a> and <a href="https://twitter.com/antoinem" target="_blank">@antoinem</a>.</p>
+      <p>Edited by <a href="https://KilianS.Website" target="_blank">Kilian</a> for <a href="https://cocreation.world" target="_blank">CoCreation.World</a>.</p>
       <span class="credits">
-        By <a href="https://basesecrete.com">Base Secrète</a>
       </span>
     </div>
 
