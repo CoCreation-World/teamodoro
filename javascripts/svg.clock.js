@@ -1,1 +1,128 @@
-var _0x2bfa6f=_0x311e;function _0x311e(_0x553f2b,_0x8cc050){var _0x2b5c4f=_0x2b5c();return _0x311e=function(_0x311ec0,_0x23909d){_0x311ec0=_0x311ec0-0x1d3;var _0x4f2346=_0x2b5c4f[_0x311ec0];return _0x4f2346;},_0x311e(_0x553f2b,_0x8cc050);}function _0x2b5c(){var _0x5a5f82=['300','50px','fill','drawfocusLabels','minutesLeft','constructor','drawbreakLabels','Container','2648415VhzbZW','6255qzeppJ','breakLabel','Signika,\x20sans-serif','60clPwzs','transparent','4psxeCU','timeLeftToString','rgba(255,255,255,.1)','rotate','circle','#181A21','drawMinutesPointer','48788EmQrZx','2127593YvtyKj','FOCUS','hide','#fff','date','prototype','9gvpOXu','size','text','700','middle','192784ZmYCFF','create','show','move','minutes','font','BREAK','rect','56FllbMb','getMinutes','formatTime','36dHvvdg','566079vvTVSi','put','10zryjyZ','ellipse','extend','focusLabel','focusTime','breakTime','Clock','stroke','1955770dUCNDm','svg'];_0x2b5c=function(){return _0x5a5f82;};return _0x2b5c();}(function(_0x2165cd,_0x570664){var _0x393bdc=_0x311e,_0x37bd1c=_0x2165cd();while(!![]){try{var _0x63245a=parseInt(_0x393bdc(0x1d4))/0x1*(-parseInt(_0x393bdc(0x1ee))/0x2)+parseInt(_0x393bdc(0x1ec))/0x3*(parseInt(_0x393bdc(0x206))/0x4)+-parseInt(_0x393bdc(0x201))/0x5*(parseInt(_0x393bdc(0x1eb))/0x6)+parseInt(_0x393bdc(0x1e8))/0x7*(-parseInt(_0x393bdc(0x1e0))/0x8)+-parseInt(_0x393bdc(0x1db))/0x9*(parseInt(_0x393bdc(0x1f6))/0xa)+-parseInt(_0x393bdc(0x200))/0xb+parseInt(_0x393bdc(0x204))/0xc*(parseInt(_0x393bdc(0x1d5))/0xd);if(_0x63245a===_0x570664)break;else _0x37bd1c['push'](_0x37bd1c['shift']());}catch(_0x3998ce){_0x37bd1c['push'](_0x37bd1c['shift']());}}}(_0x2b5c,0x1edda),SVG[_0x2bfa6f(0x1f4)]=function(_0x7aa2b5,_0x1bf3d9){var _0x2e8b9f=_0x2bfa6f;this[_0x2e8b9f(0x1d9)]=new Date();var _0x10dcaa,_0x591c61='#D63359',_0x3accc4='#3AB181',_0x159418=_0x2e8b9f(0x203);this[_0x2e8b9f(0x1fd)]['call'](this,SVG[_0x2e8b9f(0x1e1)](_0x2e8b9f(0x1f7))),this['viewbox'](0x0,0x0,0x64,0x64),this[_0x2e8b9f(0x1dc)](_0x7aa2b5,_0x7aa2b5),this['plate']=this[_0x2e8b9f(0x1ef)](0x64,0x64)[_0x2e8b9f(0x1fa)](_0x2e8b9f(0x205));for(_0x10dcaa=0x3b;_0x10dcaa>=0x0;_0x10dcaa--)if(_0x10dcaa%0x5!=0x0)this['rect'](0x1,0x1)[_0x2e8b9f(0x1e3)](0x32,0x4)['fill'](_0x2e8b9f(0x208))[_0x2e8b9f(0x209)](_0x10dcaa*0x6,0x32,0x32);for(_0x10dcaa=0x3b;_0x10dcaa>=0x0;_0x10dcaa--)this['rect'](0x1,0x3)['move'](0x32,0x4)['fill']('rgba(255,255,255,.1)')['rotate'](_0x10dcaa*0x1e,0x32,0x32);for(_0x10dcaa=0x95;_0x10dcaa>=0x0;_0x10dcaa--)this['rect'](0x1,0x4)[_0x2e8b9f(0x1e3)](0x32,0x0)[_0x2e8b9f(0x1fa)](_0x591c61)['rotate'](_0x10dcaa*0x1,0x32,0x32);for(_0x10dcaa=0x149;_0x10dcaa>=0xb4;_0x10dcaa--)this[_0x2e8b9f(0x1e7)](0x1,0x4)[_0x2e8b9f(0x1e3)](0x32,0x0)[_0x2e8b9f(0x1fa)](_0x591c61)['rotate'](_0x10dcaa*0x1,0x32,0x32);for(_0x10dcaa=0x167;_0x10dcaa>=0x14a;_0x10dcaa--)this[_0x2e8b9f(0x1e7)](0x1,0x4)[_0x2e8b9f(0x1e3)](0x32,0x0)[_0x2e8b9f(0x1fa)](_0x3accc4)[_0x2e8b9f(0x209)](_0x10dcaa*0x1,0x32,0x32);for(_0x10dcaa=0xb3;_0x10dcaa>=0x96;_0x10dcaa--)this['rect'](0x1,0x4)[_0x2e8b9f(0x1e3)](0x32,0x0)[_0x2e8b9f(0x1fa)](_0x3accc4)[_0x2e8b9f(0x209)](_0x10dcaa*0x1,0x32,0x32);this[_0x2e8b9f(0x1e4)]=this[_0x2e8b9f(0x20a)](0x4)['move'](0x31,0x0)[_0x2e8b9f(0x1fa)](_0x2e8b9f(0x1d8))[_0x2e8b9f(0x1f5)](_0x2e8b9f(0x20b)),this[_0x2e8b9f(0x1f1)]=this[_0x2e8b9f(0x1dd)](_0x2e8b9f(0x1d6))[_0x2e8b9f(0x1e3)](0x32,0x19)[_0x2e8b9f(0x1fa)](_0x591c61)[_0x2e8b9f(0x1e5)]({'anchor':_0x2e8b9f(0x1df),'size':0x6,'family':_0x159418,'weight':_0x2e8b9f(0x1f8),'length':_0x2e8b9f(0x1f9)}),this[_0x2e8b9f(0x1f2)]=this[_0x2e8b9f(0x1dd)]('')[_0x2e8b9f(0x1e3)](0x32,0x23)[_0x2e8b9f(0x1fa)](_0x591c61)['font']({'anchor':_0x2e8b9f(0x1df),'size':0x18,'family':_0x159418,'weight':_0x2e8b9f(0x1de)}),this[_0x2e8b9f(0x202)]=this[_0x2e8b9f(0x1dd)](_0x2e8b9f(0x1e6))[_0x2e8b9f(0x1e3)](0x32,0x19)['fill'](_0x3accc4)[_0x2e8b9f(0x1e5)]({'anchor':'middle','size':0x6,'family':_0x159418,'weight':'300'}),this['breakTime']=this[_0x2e8b9f(0x1dd)]('')['move'](0x32,0x23)[_0x2e8b9f(0x1fa)](_0x3accc4)[_0x2e8b9f(0x1e5)]({'anchor':_0x2e8b9f(0x1df),'size':0x18,'family':_0x159418,'weight':'700'});},SVG[_0x2bfa6f(0x1f4)][_0x2bfa6f(0x1da)]=new SVG[(_0x2bfa6f(0x1ff))](),SVG['extend'](SVG[_0x2bfa6f(0x1f4)],{'update':function(_0x4c31a9){var _0x18bd48=_0x2bfa6f;this[_0x18bd48(0x1d9)]=_0x4c31a9,this[_0x18bd48(0x1d3)]();var _0x5c8073=this['date']['getMinutes']();_0x5c8073>=0x19&&_0x5c8073<=0x1d||_0x5c8073>=0x37&&_0x5c8073<=0x3b?this[_0x18bd48(0x1fe)]():this[_0x18bd48(0x1fb)]();},'drawMinutesPointer':function(){var _0x54a2e8=_0x2bfa6f;this[_0x54a2e8(0x1e4)][_0x54a2e8(0x209)](0x168+0x168/0x3c*this[_0x54a2e8(0x1d9)][_0x54a2e8(0x1e9)](),0x32,0x32);},'drawfocusLabels':function(){var _0x290daf=_0x2bfa6f;this['focusTime'][_0x290daf(0x1dd)](this['timeLeftToString']()),this[_0x290daf(0x1f1)]['show'](),this['focusTime'][_0x290daf(0x1e2)](),this['breakLabel'][_0x290daf(0x1d7)](),this['breakTime'][_0x290daf(0x1d7)]();},'drawbreakLabels':function(){var _0x29ef01=_0x2bfa6f;this[_0x29ef01(0x1f3)][_0x29ef01(0x1dd)](this[_0x29ef01(0x207)]()),this['breakLabel'][_0x29ef01(0x1e2)](),this[_0x29ef01(0x1f3)][_0x29ef01(0x1e2)](),this[_0x29ef01(0x1f1)]['hide'](),this['focusTime']['hide']();},'timeLeftToString':function(){var _0x46ca82=_0x2bfa6f;return this[_0x46ca82(0x1ea)](this[_0x46ca82(0x1fc)](),0x3b-this[_0x46ca82(0x1d9)]['getSeconds']());},'minutesLeft':function(){var _0x1bceac=this['date']['getMinutes']();if(_0x1bceac<0x19)return 0x18-_0x1bceac;else{if(_0x1bceac<0x1e)return 0x1d-_0x1bceac;else{if(_0x1bceac<0x37)return 0x36-_0x1bceac;else return 0x3b-_0x1bceac;}}},'formatTime':function(_0x1d469e,_0x491c83){if(_0x1d469e<0xa)_0x1d469e='0'+_0x1d469e;if(_0x491c83<0xa)_0x491c83='0'+_0x491c83;return _0x1d469e+':'+_0x491c83;}}),SVG[_0x2bfa6f(0x1f0)](SVG[_0x2bfa6f(0x1ff)],{'clock':function(_0xda0db6){var _0x31c6b8=_0x2bfa6f;return this[_0x31c6b8(0x1ed)](new SVG['Clock'](_0xda0db6));}}));
+/* Clock.svg v0.1 (c) 2013 Wout Fierens - Svg.js is licensed under the terms of the MIT License */
+SVG.Clock = function(size, options) {
+  this.date = new Date;
+
+  var i;
+  var red = "#D63359";
+  var green = "#3AB181";
+  var font = "Signika, sans-serif";
+
+  /* create nested svg element */
+  this.constructor.call(this, SVG.create('svg'));
+
+  /* set attributes */
+  this.viewbox(0, 0, 100, 100);
+  this.size(size, size);
+
+  /* create base plate */
+  this.plate = this.ellipse(100, 100).fill("transparent")
+
+  /* small bar every minute */
+    for (i = 59; i >= 0; i--)
+      if (i % 5 != 0)
+        this.rect(1, 1).move(50, 4).fill("rgba(255,255,255,.1)").rotate(i * 6, 50, 50)
+  /* bar every five minutes */
+    for (i = 59; i >= 0; i--)
+      this.rect(1, 3).move(50, 4).fill("rgba(255,255,255,.1)").rotate(i * 30, 50, 50)
+
+
+
+  /* pomodoro1 */
+  for (i = 149; i >= 0; i--)
+    this.rect(1, 4).move(50, 0).fill(red).rotate(i * 1, 50, 50)
+
+  /* pomodoro2 */
+  for (i = 329; i >= 180; i--)
+    this.rect(1, 4).move(50, 0).fill(red).rotate(i * 1, 50, 50)
+
+  /* break1 */
+  for (i = 359; i >= 330; i--)
+    this.rect(1, 4).move(50, 0).fill(green).rotate(i * 1, 50, 50)
+
+  /* break2 */
+  for (i = 179; i >= 150; i--)
+    this.rect(1, 4).move(50, 0).fill(green).rotate(i * 1, 50, 50)
+
+
+
+  /* draw minute pointer */
+  this.minutes = this.circle(4).move(49, 0).fill("#fff").stroke("#181A21");
+
+  this.focusLabel = this.text('FOCUS').move(50, 25).fill(red).
+    font({anchor: 'middle', size: 6, family: font, weight: '300', length: '50px'});
+
+  this.focusTime = this.text("").move(50, 35).fill(red).
+    font({anchor: 'middle', size: 24, family: font, weight: '700'});
+
+  this.breakLabel = this.text('BREAK').move(50, 25).fill(green)
+    .font({anchor: 'middle', size: 6, family: font, weight: '300'});
+
+  this.breakTime = this.text("").move(50, 35).fill(green)
+    .font({anchor: 'middle', size: 24, family: font, weight: '700'});
+}
+
+SVG.Clock.prototype = new SVG.Container
+
+SVG.extend(SVG.Clock, {
+  update: function(date) {
+    this.date = date;
+    this.drawMinutesPointer();
+    var minutes = this.date.getMinutes();
+    (minutes >= 25 && minutes <= 29) || (minutes >= 55 && minutes <= 59) ? this.drawbreakLabels() : this.drawfocusLabels();
+  },
+
+  drawMinutesPointer: function() {
+    this.minutes.rotate(360 + 360 / 60 * this.date.getMinutes(), 50, 50);
+  },
+
+  drawfocusLabels: function() {
+    this.focusTime.text(this.timeLeftToString());
+    this.focusLabel.show();
+    this.focusTime.show();
+    this.breakLabel.hide();
+    this.breakTime.hide();
+  },
+
+  drawbreakLabels: function() {
+    this.breakTime.text(this.timeLeftToString());
+    this.breakLabel.show();
+    this.breakTime.show();
+    this.focusLabel.hide();
+    this.focusTime.hide();
+  },
+
+  timeLeftToString: function() {
+    return this.formatTime(this.minutesLeft(), 59 - this.date.getSeconds());
+  },
+
+  minutesLeft: function() {
+    var minutes = this.date.getMinutes();
+    if (minutes < 25)
+      return 24 - minutes;
+    else if (minutes < 30)
+      return 29 - minutes;
+    else if (minutes < 55)
+      return 54 - minutes;
+    else
+      return 59 - minutes;
+  },
+
+  formatTime: function(minutes, seconds) {
+    if (minutes < 10)
+      minutes = "0" + minutes;
+
+    if (seconds < 10)
+      seconds = "0" + seconds;
+
+    return minutes + ":" + seconds;
+  }
+})
+
+// Extend SVG container
+SVG.extend(SVG.Container, {
+  // Add clock method
+  clock: function(size) {
+    return this.put(new SVG.Clock(size))
+  }
+
+})
