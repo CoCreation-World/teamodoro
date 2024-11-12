@@ -69,11 +69,13 @@ Teamodoro = {
       if (this.inBreak() && this.lastState == "focus") {
         document.getElementById("beep").play();
         WA.chat.sendChatMessage('Time for a break. 5min. Get some fresh Air and a stretch! Stop working!', { scope: 'local', author: 'System' });
-        WA.state.saveVariable('focus',"0")
+        WA.state.saveVariable('focus',"");
+        WA.event.broadcast("pomo", "break");
       } else if (!this.inBreak() && this.lastState == "break") {
         document.getElementById("beep").play();
         WA.chat.sendChatMessage('Focus Time! 25min!', { scope: 'local', author: 'System' });
-        WA.state.saveVariable('focus',"1")
+        WA.state.saveVariable('focus',"1");
+        WA.event.broadcast("pomo", "focus");
       }
     },
     
